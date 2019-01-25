@@ -1,1 +1,1 @@
-# This is Donna Langille's LLCU-612 Git Hub Repository.
+# This is Donna Langille's LLCU-612 GitHub Repository.
